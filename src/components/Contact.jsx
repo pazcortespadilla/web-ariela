@@ -5,10 +5,7 @@ function Contact() {
         <div className="section-title">
           <h2>Contacto</h2>
         </div>
-
         <div className="contact-box">
-          <p>Booking, prensa y colaboraciones:</p>
-
           <a href="mailto:contacto@ariela.com" className="contact-link">
             contacto@ariela.com
           </a>
